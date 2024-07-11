@@ -7,12 +7,12 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "body-parser": "^1.19.0",
-    "twilio": "^3.55.0",
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^8.6.0",
+    "express": "^4.19.2",
     "mssql": "^6.3.1",
-	"axios": "^1.7.2",
-	"csv-parser": "^3.0.0",
-    "dotenv": "^8.2.0"
+    "twilio": "^5.2.2"
   }
 }
